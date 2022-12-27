@@ -13,7 +13,7 @@
 
 <body>
     <header>
-        <img class="logo" src="./public/Logo (1).svg" alt="Logo da Alura">
+        <img class="logo" src="./public/Logo.svg" alt="Logo da Alura">
         <div class="dark-mode-container">
             <span>Dark Mode</span>
             <input type="checkbox" name="check" id="check">
@@ -26,7 +26,7 @@
             <label for="texto-original">Digite um texto</label>
 
             <textarea id="texto-original"></textarea>
-            <span><img src="./public/Vector.png">Apenas letras minusculas e sem acento</span>
+            <span><img src="./public/Vector.png">Apenas letras. Evite caracteres especiais e acentos</span>
             <div class="buttons">
                 <button type="button" id="criptografar">Criptografar</button>
                 <button type="button" id="descriptografar">Descriptografar</button>
@@ -35,8 +35,8 @@
         <div class="container-mobile">
             <div class="texto-criptografado">
                 <h3 class="titulo-mensagem">Nenhuma mensagem encontrada!</h3>
-                <p class="texto-mensagem">Digite o texto que você deseja criptografar ou descriptografar</p>
-                <button type="button" class="copiar">Copiar</button>
+                <span class="texto-mensagem">Digite o texto que você deseja criptografar ou descriptografar</span>
+                <button type="button" class="copiar" onclick=ativarBotaoCopiar()>Copiar</button>
             </div>
         </div>
         <div class="container-desktop">
@@ -54,6 +54,7 @@
     </footer>
 
     <script src="./src/javascript/index.js"></script>
+    <script src="./src/javascript/darkMode.js"></script>
 </body>
 
 </html>
