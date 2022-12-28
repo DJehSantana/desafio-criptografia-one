@@ -20,7 +20,7 @@
 Teste a aplicação! Acesse o [link](https://djehsantana.github.io/desafio-criptografia-one/)! 
 
 **Layout da aplicação nos tamanhos de tela:**
-<br>
+<br><br>
 Tela Desktop:
 <br>
 <img src="./public/docImages/desktop.png" width="90%"/>
