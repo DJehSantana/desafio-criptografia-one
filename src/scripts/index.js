@@ -15,7 +15,7 @@ const tituloModal = document.getElementsByClassName("titulo-modal");
 const textoModal = document.getElementsByClassName("texto-modal");
 
 //variáveis globais
-const errorMessage = "Texto digitado vazio ou inválido!";
+const errorMessage = "Texto digitado vazio ou inválido";
 const mensagemOriginal = "Digite o texto que você deseja criptografar ou descriptografar";
 
 //lógica de criptografia e descriptografia
@@ -71,7 +71,7 @@ const ativarCriptografia = () => {
         adicionarClasses();
         criptografarTexto(textarea.value, textoMensagem);
     } else {
-        exibirMensagem("Atenção", errorMessage);
+        exibirMensagem("Atenção!", errorMessage);
         return;
     }
 }
@@ -83,7 +83,7 @@ const ativarDescriptografia = () => {
         adicionarClasses();
         descriptografarTexto(textarea.value, textoMensagem);
     } else {
-        exibirMensagem("Atenção", errorMessage);
+        exibirMensagem("Atenção!", errorMessage);
         return;
     }
 }

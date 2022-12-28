@@ -9,7 +9,7 @@ dialog {
     margin: auto;
     width: 250px;
     height: 150px;
-    background-color: #FFFFFF;
+    background-color: #E8E8E8;
     border: 1.5px solid #0A3871; 
     border-radius: 8px;
     box-shadow: 0 0 1em rgb(0 0 0 /.3);
@@ -29,7 +29,7 @@ dialog > p {
     margin: 14px auto;
     padding: 16px;
     cursor: pointer;
-    color: #FFFFFF;
+    color: #E8E8E8;
     border-radius: 8px;
     background-color: #0A3871;
 }
