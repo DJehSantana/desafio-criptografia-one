@@ -6,8 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./src/styles/reset.css">
-    <link rel="stylesheet" href="./src/styles/index.css">
     <link rel="stylesheet" href="./src/styles/darkmode.css">
+    <link rel="stylesheet" href="./src/styles/modal.css">
+    <link rel="stylesheet" href="./src/styles/index.css">
     <title>DecodificadorONE</title>
 </head>
 
@@ -21,12 +22,19 @@
         </div>
 
     </header>
+
+    <dialog>
+        <p class="titulo-modal"></p>
+        <p class="texto-modal"></p>
+        <button id="botaoFechar" onclick=fecharModal()>Ok</button>
+    </dialog>
+
     <main>
         <div class="container-principal">
             <label for="texto-original">Digite um texto</label>
 
             <textarea id="texto-original"></textarea>
-            <span><img src="./public/Vector.png">Apenas letras. Evite caracteres especiais e acentos</span>
+            <span><img src="./public/Vector.png">Apenas letras! Evite caracteres especiais e acentos</span>
             <div class="buttons">
                 <button type="button" id="criptografar">Criptografar</button>
                 <button type="button" id="descriptografar">Descriptografar</button>
@@ -53,8 +61,8 @@
         <span>&copy; Jessica Santana 2022. Todos os direitos reservados</span>
     </footer>
 
-    <script src="./src/javascript/index.js"></script>
-    <script src="./src/javascript/darkMode.js"></script>
+    <script src="./src/scripts/index.js"></script>
+    <script src="./src/scripts/darkMode.js"></script>
 </body>
 
 </html>

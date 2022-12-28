@@ -1,0 +1,39 @@
+/*Estilos do modal*/
+
+dialog::backdrop {  
+    background: rgba(0, 0, 0, 0.3);
+}
+
+dialog {
+    text-align: center;   
+    margin: auto;
+    width: 250px;
+    height: 150px;
+    background-color: #FFFFFF;
+    border: 1.5px solid #0A3871; 
+    border-radius: 8px;
+    box-shadow: 0 0 1em rgb(0 0 0 /.3);
+}
+
+dialog > p {
+    color: #0A3871;
+    padding-top: 10px;
+}
+
+.titulo-modal {  
+    font-size: 1.5em;
+}
+
+#botaoFechar {
+    width: 50%; 
+    margin: 14px auto;
+    padding: 16px;
+    cursor: pointer;
+    color: #FFFFFF;
+    border-radius: 8px;
+    background-color: #0A3871;
+}
+
+#botaoFechar:hover {
+    opacity: 0.8;
+}
