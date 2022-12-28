@@ -20,26 +20,36 @@
 Teste a aplicação! Acesse o [link](https://djehsantana.github.io/desafio-criptografia-one/)! 
 
 **Layout da aplicação nos tamanhos de tela:**
-Tela Desktop
-<img src="./public/docImages/desktop.png" width="280px"/>
-
+<br>
+Tela Desktop:
+<br>
+<img src="./public/docImages/desktop.png" width="360px"/>
+<br>
 Tela Mobile:
-<img src="./public/docImages/mobile.png" width="180px"/>
-
+<br>
+<img src="./public/docImages/mobile.png" width="280px"/>
+<br>
 Tela Tablet:
-<img src="./public/docImages/tablet.png" width="240px"/>
+<br>
+<img src="./public/docImages/tablet.png" width="320px"/>
+<br>
 
 **Funcionalidades extras:**
+<br>
 Dark Mode:
-<img src="./public/docImages/darkmode.png" width="280px"/>
-
+<br>
+<img src="./public/docImages/darkmode.png" width="360px"/>
+<br>
 Validação de área de texto vazia:
-<img src="./public/docImages/darkmode-validacao.png" width="280px"/>
-
+<br>
+<img src="./public/docImages/darkmode-validacao.png" width="360px"/>
+<br>
 Mensagem exibida após texto copiado:
-<img src="./public/docImages/mensagem-copiado.png" width="280px"/>
+<br>
+<img src="./public/docImages/mensagem-copiado.png" width="360px"/>
 
 **Gostou do projeto?**
+
 Me siga no [Linkedin](https://www.linkedin.com/in/jessica-santana-developer/)!
 
 
