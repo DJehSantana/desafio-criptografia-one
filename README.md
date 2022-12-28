@@ -23,30 +23,30 @@ Teste a aplicação! Acesse o [link](https://djehsantana.github.io/desafio-cript
 <br>
 Tela Desktop:
 <br>
-<img src="./public/docImages/desktop.png" width="360px"/>
+<img src="./public/docImages/desktop.png" width="70%"/>
 <br>
 Tela Mobile:
 <br>
-<img src="./public/docImages/mobile.png" width="280px"/>
+<img src="./public/docImages/mobile.png" width="50%"/>
 <br>
 Tela Tablet:
 <br>
-<img src="./public/docImages/tablet.png" width="320px"/>
+<img src="./public/docImages/tablet.png" width="70%"/>
 <br>
 
 **Funcionalidades extras:**
 <br>
 Dark Mode:
 <br>
-<img src="./public/docImages/darkmode.png" width="360px"/>
+<img src="./public/docImages/darkmode.png" width="70%"/>
 <br>
 Validação de área de texto vazia:
 <br>
-<img src="./public/docImages/darkmode-validacao.png" width="360px"/>
+<img src="./public/docImages/darkmode-validacao.png" width="70%"/>
 <br>
 Mensagem exibida após texto copiado:
 <br>
-<img src="./public/docImages/mensagem-copiado.png" width="360px"/>
+<img src="./public/docImages/mensagem-copiado.png" width="70%"/>
 
 **Gostou do projeto?**
 
