@@ -20,10 +20,10 @@
 Teste a aplicação! Acesse o [link](https://djehsantana.github.io/desafio-criptografia-one/)! 
 
 **Layout da aplicação nos tamanhos de tela:**
-<br>
+<br><br>
 Tela Desktop:
 <br>
-<img src="./public/docImages/desktop.png" width="70%"/>
+<img src="./public/docImages/desktop.png" width="90%"/>
 <br>
 Tela Mobile:
 <br>
@@ -38,15 +38,15 @@ Tela Tablet:
 <br>
 Dark Mode:
 <br>
-<img src="./public/docImages/darkmode.png" width="70%"/>
+<img src="./public/docImages/darkmode.png" width="90%"/>
 <br>
 Validação de área de texto vazia:
 <br>
-<img src="./public/docImages/darkmode-validacao.png" width="70%"/>
+<img src="./public/docImages/darkmode-validacao.png" width="90%"/>
 <br>
 Mensagem exibida após texto copiado:
 <br>
-<img src="./public/docImages/mensagem-copiado.png" width="70%"/>
+<img src="./public/docImages/mensagem-copiado.png" width="90%"/>
 
 **Gostou do projeto?**
 
